@@ -1,4 +1,4 @@
-# Build ECommerce Shopping Cart by React & Redux 2020 Edition -- JB2
+# Build ECommerce Shopping Cart by React & Redux 2020 Edition -- otraJb
 
 Demo: https://reactredux-shoppingcart.herokuapp.com/
 
